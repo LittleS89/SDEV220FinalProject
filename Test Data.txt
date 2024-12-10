@@ -1,0 +1,36 @@
+Stacey Little
+SDEV220 - Fall 2024
+Sample Test Data: Final Project - Grocery Store Search Tool
+
+
+Test 1:
+User input - "Flour"
+Expected output -
+"LA BANDERITA FLOUR TORTILLAS    8 count    $3.29	E-5	BREAD
+PILLSBURY FLOUR			5 lbs	    $3.99	G-3	BAKING"
+
+Test 2:
+User input - "Hersheys"
+Expected output - 
+"HERSHEYS COCOA POWDER	   8 oz	      $6.29	G-3	BAKING"
+
+Test 3:
+User input - "Candy"
+Expected output - 
+"KIT KAT SNACK SIZE	10.78 oz    $6.49	F-7	CANDY
+SNICKERS		1.86 oz	    $1.99	F-7	CANDY
+NERDS GUMMY CLUSTERS	8 oz	    $5.99	F-7	CANDY
+TWIX			1.79 oz	    $1.99	F-7	CANDY
+LINDT CHOCOLATE BAR	4.4 oz	    $3.29	F-7	CANDY"
+
+Test 4:
+User input - "Milk"
+Expected output - 
+"WHOLE MILK	Gallon	 $4.99	   A-4	 DAIRY"
+
+Test 5:
+User input - "Pizza"
+Expected output - 
+"DIGIORNO PEPPERONI PIZZA	24.7 oz	   $6.79     D-2     FROZEN
+DIGIORNO FOUR CHEESE PIZZA	24.6 oz	   $6.79     D-2     FROZEN
+LUNCHABLES CHEESY PIZZA		4.2 oz	   $2.99     B-3     DELI"
